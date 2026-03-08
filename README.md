@@ -59,7 +59,7 @@ Run the application
 
 python app.py
 
-Open in browser
+Open in the browser
 
 http://127.0.0.1:5000
 
@@ -71,4 +71,5 @@ http://127.0.0.1:5000
 - B Sai Charan
 - B Vijay
 - G Neha
+
 - B Sai Akhil
